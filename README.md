@@ -2,7 +2,8 @@
 
 Get started with the GitHub Issue Tracker app by downloading the APK file:
 
-<img src="https://camo.githubusercontent.com/b7f07c99e616f1684eac5d7809ab904f90fb250cf5c6b859c49e9f8533b206b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f776e6c6f61642d41504b2d677265656e3f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f6964" alt="Download APK" data-canonical-src="https://img.shields.io/badge/Download-APK-green?style=for-the-badge&amp;logo=android" style="max-width: 100%;">
+[![Download APK](https://camo.githubusercontent.com/b7f07c99e616f1684eac5d7809ab904f90fb250cf5c6b859c49e9f8533b206b3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f776e6c6f61642d41504b2d677265656e3f7374796c653d666f722d7468652d6261646765266c6f676f3d616e64726f6964)](https://github.com/Noctambulist007/GitHub-Issue-Tracker/releases/tag/v1.0.0)
+
 
 *Experience seamless issue tracking and management directly on your device!*
 
