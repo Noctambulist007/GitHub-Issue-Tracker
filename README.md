@@ -69,7 +69,8 @@ Get started with the GitHub Issue Tracker app by downloading the APK file:
 
     ```plaintext
     GITHUB_API_TOKEN=your_github_token
-    FIREBASE_API_KEY=your_firebase_api_key
+    GITHUB_CLIENT_ID=your_github_client_id
+    GITHUB_CLIENT_SECRET=your_github_client_secret
     ```
 
 5. Run the app:
