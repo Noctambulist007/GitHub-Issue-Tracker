@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "449935092455",
+    "project_id": "github-issue-tracker-abf3e",
+    "storage_bucket": "github-issue-tracker-abf3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449935092455:android:1352e5750f0762761e1042",
+        "android_client_info": {
+          "package_name": "com.noctumbulist.githubissuetracker.github_issue_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCeKtHasv5Q56IXz_Ogo71ng1NTMAr0ctU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
