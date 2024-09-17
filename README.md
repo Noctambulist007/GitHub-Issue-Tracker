@@ -75,6 +75,7 @@ Check out the short demo video of the GitHub Issue Tracker app: [![Demo Video](h
     GITHUB_API_TOKEN=your_github_token
     GITHUB_CLIENT_ID=your_github_client_id
     GITHUB_CLIENT_SECRET=your_github_client_secret
+    GITHUB_REDIRECT_URL=https://github-issue-tracker-abf3e.firebaseapp.com/__/auth/handler
     ```
 
 5. Run the app:
