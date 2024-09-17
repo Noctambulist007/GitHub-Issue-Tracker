@@ -9,6 +9,10 @@ Get started with the GitHub Issue Tracker app by downloading the APK file:
 
 ![GitHub Issue Tracker Logo](https://github.com/user-attachments/assets/61c33707-2efa-4664-9ca5-0016ca712c88)
 
+## 📹 Technical Details [Video]
+
+Check out the short demo video of the GitHub Issue Tracker app: [![Demo Video](https://img.youtube.com/vi/XSadO8P6_dE/maxresdefault.jpg)](https://youtu.be/XSadO8P6_dE)
+
 
 **Track, Search, and Filter GitHub Issues - All in One App!**
 
@@ -155,7 +159,3 @@ Contributions are welcome! Please follow these steps to contribute:
 For any queries or suggestions, feel free to [open an issue](https://github.com/yourusername/github_issue_tracker/issues).
 
 ---
-
-## 📹 Demo Video
-
-Check out the short demo video of the GitHub Issue Tracker app: [Demo Video](https://youtube.com/demo-link).
